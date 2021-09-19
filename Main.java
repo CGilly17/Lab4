@@ -1,3 +1,8 @@
+/*
+Lab4
+Partners: Cal Gilson and Ayaan Ajmal
+Date: 9/19/21
+*/
 
 import java.util.Random;
 
